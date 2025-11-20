@@ -2,7 +2,7 @@ name: Build Release APK for alert_x
 
 on:
   push:
-    branches: [ "alert_x" ]
+    branches: [ "ALERT_X" ]
   workflow_dispatch:
 
 jobs:
